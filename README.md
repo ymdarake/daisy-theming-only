@@ -1,6 +1,6 @@
 # Experiment: daisyui but theming only
 
-[](theming.png)
+![](theming.png)
 
 
 ## Run
